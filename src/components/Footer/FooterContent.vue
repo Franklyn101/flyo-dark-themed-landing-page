@@ -65,8 +65,8 @@
 
         <p>
           Coded <span>&hearts;</span> by
-          <a href="https://github.com/SouleymaneSy7" target="_blank"
-            >Souleymane Sy</a
+          <a href="https://github.com/Franklyn101" target="_blank"
+            >Franklyn1o1</a
           >
         </p>
       </section>
